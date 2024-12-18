@@ -30,6 +30,10 @@
     z-index: -1;
 }
 
+.padding-top {
+    padding-top: 50px;
+}
+
 .margen {
     margin: 20px;
 }
@@ -63,11 +67,29 @@
     padding: 10px;
 }
 
+.no-deco-link {
+    text-decoration: none;
+    color: black;
+}
+
+.no-deco-link:hover {
+    text-decoration: none;
+    color:#a33019;
+}
+
 .nav-opc-off,.nav-opc-on {
     text-decoration: none;
     padding: 11px 20px;
     color: black;
     font-size: 18px;
+}
+
+.nav-opc-off:hover {
+    color:#a33019;
+}
+
+.nav-opc-on:hover {
+    color:royalblue;
 }
 
 .nav-opc-on {
