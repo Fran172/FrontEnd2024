@@ -91,6 +91,11 @@
     color:#a33019;
 }
 
+
+.nav-opc-on {
+    background-color:#8c8383;
+}
+
 .nav-opc-off,.nav-opc-on {
     text-decoration: none;
     padding: 11px 20px;
@@ -106,9 +111,6 @@
     color:royalblue;
 }
 
-.nav-opc-on {
-    background-color:#8c8383;
-}
 
 .sticky {
     position: sticky;
