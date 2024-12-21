@@ -176,6 +176,7 @@ form textarea {
     resize: none;
     height: 20vh;
     font-weight: lighter;
+    border: 2px solid rgb(206, 206, 206);
 }
 
 form input {
@@ -206,4 +207,3 @@ form h3 {
     form input {max-height: 48px;}
     .container-grid { grid-template-columns: repeat(3, 1fr); }
 }
-
